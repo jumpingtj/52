@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://10.0.0.66:5011/</loc>
+  </url><url>
+    <loc>http://10.0.0.66:5011/categories/</loc>
+  </url><url>
+    <loc>http://10.0.0.66:5011/categories/development/</loc>
+  </url><url>
+    <loc>http://10.0.0.66:5011/library/sleight/double-lift/</loc>
+  </url><url>
+    <loc>http://10.0.0.66:5011/library/reveals/double-lift-reveal/</loc>
+  </url><url>
+    <loc>http://10.0.0.66:5011/library/</loc>
+  </url><url>
+    <loc>http://10.0.0.66:5011/library/</loc>
+  </url><url>
+    <loc>http://10.0.0.66:5011/library/shuffle-cut/overhand/</loc>
+  </url><url>
+    <loc>http://10.0.0.66:5011/library/reveals/</loc>
+  </url><url>
+    <loc>http://10.0.0.66:5011/library/shuffle-cut/</loc>
+  </url><url>
+    <loc>http://10.0.0.66:5011/library/sleight/</loc>
+  </url>
+</urlset>

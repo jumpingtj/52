@@ -1,0 +1,10 @@
+baseURL = 'http://10.0.0.66:5011/'
+languageCode = 'en-gb'
+title = '52'
+theme = 'kard'
+
+[params]
+  auto-title = true
+
+[taxonomies]
+  category = 'categories'

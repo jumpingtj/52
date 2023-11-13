@@ -1,0 +1,14 @@
+<div id="tax-div">
+  <ul>
+    {{ range (.Site.GetPage "/library/").Sections}}
+    <li>
+      <a>{{ .Title }}</a>
+      <ul>
+        {{ range .Pages }}
+        <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+    </li>
+    {{ end }}
+  </ul>
+</div>

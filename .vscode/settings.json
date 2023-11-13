@@ -1,0 +1,8 @@
+{
+    "liveServer.settings.port": 5011,
+    "liveServer.settings.host": "10.0.0.66",
+    "liveServer.settings.root": "/public",
+    "markdownlint.config": {
+        "MD033": false,
+    }
+}

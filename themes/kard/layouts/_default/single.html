@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="icon" type="image/jpeg" href="/img/favicon.jpg">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cutive+Mono">
+    <link rel="stylesheet" href="/css/main.css">
+    <title>{{.Site.Title}}</title>
+</head>
+
+<body>
+    
+<div id="content">{{ if .Param "auto-title" }}<h1>{{.Title}}</h1>{{ end }}{{.Content}}</div>
+</body>
+
+</html>

@@ -1,0 +1,47 @@
+:root {
+    --bg: rgb(0, 0, 139);
+    --fg: rgb(232, 255, 247);
+    --bbg: rgb(0, 0, 196);
+}
+
+body,
+button {
+    text-align: center;
+    background-color: var(--bg);
+    color: var(--fg);
+    font-family: "Cutive Mono", "Courier New", monospace;
+    font-size: 2em;
+}
+
+#content {
+    padding-left: 50px;
+}
+
+#tax-div {
+    display: inline-block;
+    text-align: left;
+}
+
+a {
+    color: aqua;
+    text-decoration: none;
+}
+
+ol {
+    text-align: left;
+}
+
+button {
+    border: 2px solid var(--fg);
+    border-radius: 20px;
+    font-weight: bolder;
+    padding: 15px;
+    transition: 1s;
+}
+
+button:hover {
+    background-color: var(--fg);
+    border: 2px solid var(--bbg);
+    color: var(--bbg);
+    font-size: 3em;
+}
