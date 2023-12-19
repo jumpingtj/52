@@ -2,48 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>52</title>
-    <link>http://10.0.0.66:5011/</link>
+    <link>jumpingtj.github.io/52/</link>
     <description>Recent content on 52</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="http://10.0.0.66:5011/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language><atom:link href="jumpingtj.github.io/52/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Double Lift</title>
-      <link>http://10.0.0.66:5011/library/sleight/double-lift/</link>
+      <title>Alpha Beta</title>
+      <link>jumpingtj.github.io/52/library/show/alpha-beta/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://10.0.0.66:5011/library/sleight/double-lift/</guid>
+      <guid>jumpingtj.github.io/52/library/show/alpha-beta/</guid>
+      <description>An amazing trick to blow away anyone watching (but not if they&amp;rsquo;ve seen the setup&amp;hellip;)
+Prepare the deck as such: A&amp;hellip;..AA&amp;hellip;..A Pick a card from the bottom, black, half. Place it face up between the two aces Let the spectator pick a card from the top half. </description>
+    </item>
+    
+    <item>
+      <title>Bottom Retention Overhand Shuffle</title>
+      <link>jumpingtj.github.io/52/library/shuffle-cut/bottom-retain-overhand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>jumpingtj.github.io/52/library/shuffle-cut/bottom-retain-overhand/</guid>
+      <description>An easy, natural way to control a card using the Overhand Shuffle.</description>
+    </item>
+    
+    <item>
+      <title>Double Lift</title>
+      <link>jumpingtj.github.io/52/library/sleight/double-lift/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>jumpingtj.github.io/52/library/sleight/double-lift/</guid>
       <description>The double lift is a move used to appear to show the first (top) card, when actually you are showing the second card.
 Get a thumb break underneath the second card (so, two cards on top of it). Push the cards together is such a way as to make it look like you have only one card, using any grip you wish. Lift up the top two cards as one, making sure to have control over every edge.</description>
     </item>
     
     <item>
       <title>Double Lift Reveal</title>
-      <link>http://10.0.0.66:5011/library/reveals/double-lift-reveal/</link>
+      <link>jumpingtj.github.io/52/library/reveals/double-lift-reveal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://10.0.0.66:5011/library/reveals/double-lift-reveal/</guid>
-      <description>An amazing sleight of hand ending for if the card is on top! (made by Toby!)
-Make sure the card is at the top (if you are nervous, do a riffle to check) and prepare for a double lift. Do a double lift and show the face (of the second card). Say, &amp;ldquo;This is not your card, correct?&amp;rdquo; The spectator shall agree with you. Place the two cards back on top and then put the top card (their card) on the table, saying, &amp;ldquo;so we shall place it on the table&amp;rdquo;.</description>
+      <guid>jumpingtj.github.io/52/library/reveals/double-lift-reveal/</guid>
+      <description>Double Lift Reveal An amazing sleight of hand ending for if the card is on top! (made by Toby!)
+Make sure the card is at the top (if you are nervous, do a riffle to check; this will also help with the thumb break) and prepare for a double lift. Do a double lift and show the face (of the second card). Say, &amp;ldquo;This is not your card, correct?&amp;rdquo; The spectator shall agree with you.</description>
     </item>
     
     <item>
       <title>Library</title>
-      <link>http://10.0.0.66:5011/library/</link>
+      <link>jumpingtj.github.io/52/library/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://10.0.0.66:5011/library/</guid>
+      <guid>jumpingtj.github.io/52/library/</guid>
       <description>A library of Magic
-Reveals Double Lift Reveal Shuffles and Cuts Overhand Shuffle Sleight of Hand Double Lift </description>
+Christmas Magic Show Alpha Beta The CCDL The Forced Card... Twice Reveals Double Lift Reveal Shuffles and Cuts Bottom Retention Overhand Shuffle Overhand Shuffle Sleight of Hand Double Lift </description>
     </item>
     
     <item>
       <title>Overhand Shuffle</title>
-      <link>http://10.0.0.66:5011/library/shuffle-cut/overhand/</link>
+      <link>jumpingtj.github.io/52/library/shuffle-cut/overhand/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://10.0.0.66:5011/library/shuffle-cut/overhand/</guid>
-      <description>The easiest, most versitile shuffle. Also great to
-Get into Shuffle Grip. Cut off roughly the bottom 2/3 of the deck and lift them up. Come down, drop a few cards (a packet) then move back up. Repeat step 3 until all the cards are back in your left hand. Repeat steps 2-4 until you are satisfid. </description>
+      <guid>jumpingtj.github.io/52/library/shuffle-cut/overhand/</guid>
+      <description>The easiest, most versatile shuffle. Also great to
+Get into Shuffle Grip. Cut off roughly the bottom 2/3 of the deck and lift them up. Come down, drop a few cards (a packet) then move back up. Repeat step 3 until all the cards are back in your left hand. Repeat steps 2-4 until you are satisfied. </description>
+    </item>
+    
+    <item>
+      <title>The CCDL</title>
+      <link>jumpingtj.github.io/52/library/show/ccdl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>jumpingtj.github.io/52/library/show/ccdl/</guid>
+      <description>A simple trick with a double lift ending.
+Allow the spectator to freely choose any card, then place it back in the deck, with a small bit sticking out. CC and false shuffles Double Lift Reveal </description>
+    </item>
+    
+    <item>
+      <title>The Forced Card... Twice</title>
+      <link>jumpingtj.github.io/52/library/show/force-short/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>jumpingtj.github.io/52/library/show/force-short/</guid>
+      <description>A very simple control and force.
+Offer the spectator to fairly choose any card. Place it back on top (or do a control like CC). Do a false riffle shuffle, preserving the top card (or any control shuffle; I just find that the riffle works the best). Let you spectator touch any card. Then square up the deck, with that card sticking out; turn your hand and pull off the top card.</description>
     </item>
     
   </channel>

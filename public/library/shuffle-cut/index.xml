@@ -2,18 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shuffles and Cuts on 52</title>
-    <link>http://10.0.0.66:5011/library/shuffle-cut/</link>
+    <link>jumpingtj.github.io/52/library/shuffle-cut/</link>
     <description>Recent content in Shuffles and Cuts on 52</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="http://10.0.0.66:5011/library/shuffle-cut/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language><atom:link href="jumpingtj.github.io/52/library/shuffle-cut/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Overhand Shuffle</title>
-      <link>http://10.0.0.66:5011/library/shuffle-cut/overhand/</link>
+      <title>Bottom Retention Overhand Shuffle</title>
+      <link>jumpingtj.github.io/52/library/shuffle-cut/bottom-retain-overhand/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://10.0.0.66:5011/library/shuffle-cut/overhand/</guid>
-      <description>The easiest, most versitile shuffle. Also great to
-Get into Shuffle Grip. Cut off roughly the bottom 2/3 of the deck and lift them up. Come down, drop a few cards (a packet) then move back up. Repeat step 3 until all the cards are back in your left hand. Repeat steps 2-4 until you are satisfid. </description>
+      <guid>jumpingtj.github.io/52/library/shuffle-cut/bottom-retain-overhand/</guid>
+      <description>An easy, natural way to control a card using the Overhand Shuffle.</description>
+    </item>
+    
+    <item>
+      <title>Overhand Shuffle</title>
+      <link>jumpingtj.github.io/52/library/shuffle-cut/overhand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>jumpingtj.github.io/52/library/shuffle-cut/overhand/</guid>
+      <description>The easiest, most versatile shuffle. Also great to
+Get into Shuffle Grip. Cut off roughly the bottom 2/3 of the deck and lift them up. Come down, drop a few cards (a packet) then move back up. Repeat step 3 until all the cards are back in your left hand. Repeat steps 2-4 until you are satisfied. </description>
     </item>
     
   </channel>
